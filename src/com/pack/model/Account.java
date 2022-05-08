@@ -1,5 +1,6 @@
 package com.pack.model;
 
+//Account Entity
 public class Account {
 
 	private long accountNumber;
